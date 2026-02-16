@@ -1,8 +1,8 @@
-const API_BASE = "../public/data";
+const API_BASE = "/data"; // Serve from root, not relative path
 
 export async function fetchStudents() {
   try {
-    // Fetch from public/data/students.json
+    // In production, /data/students.json maps to public/data/students.json
     const res = await fetch(`${API_BASE}/students.json`);
     if (!res.ok) throw new Error("Failed to fetch students");
     return res.json();
