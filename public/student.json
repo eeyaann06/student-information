@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Adrian B. Tablada",
+    "age": 20,
+    "major": "Computer Science",
+    "email": "tabladaadrian37@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Carl Go",
+    "age": 19,
+    "major": "Mathematics",
+    "email": "carl.go@example.edu"
+  },
+  {
+    "id": 3,
+    "name": "James Santos",
+    "age": 19,
+    "major": "Computer Science",
+    "email": "james.santos@example.edu"
+  },
+  {
+    "id": 4,
+    "name": "Gia Mae P Dominguito",
+    "age": 19,
+    "major": "Accounting",
+    "email": "gia.dominguito@example.edu"
+  }
+]
